@@ -49,7 +49,7 @@ img {
     background-color: rgba(0, 0, 0, 0.7);
 }
 .inner {
-    width: 300px;
+    width: 600px;
 }
 .inner h1 {
     color: #ffffff;
@@ -90,12 +90,12 @@ img {
     padding: 8px 0px;
     cursor: pointer;
 }
-.links {
+.download {
     color: #ffffff;
     font-size: 10px;
-    line-height: 100px;
+    line-height: 60px;
     margin: 0px 0px 5px 0px;
-    text-align: center;
+    text-align: left;
     height:5px;
   }
 
