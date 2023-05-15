@@ -90,13 +90,16 @@ img {
     padding: 8px 0px;
     cursor: pointer;
 }
-.download {
+.links {
     color: #ffffff;
     font-size: 10px;
     line-height: 50px;
     margin: 0px 0px 5px 0px;
-    text-align: left;
     height:5px;
+  }
+
+  .download {
+    text-align: left;
   }
 
 
