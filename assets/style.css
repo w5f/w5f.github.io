@@ -91,7 +91,12 @@ img {
     cursor: pointer;
 }
 .links {
-    background: lightblue;
+    color: #ffffff;
+    font-size: 10px;
+    line-height: 100px;
+    margin: 0px 0px 5px 0px;
+    text-align: center;
+    height:5px;
   }
 
 
