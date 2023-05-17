@@ -98,8 +98,18 @@ img {
     height:5px;
   }
 
-  .download {
+  .discord {
     text-align: left;
+    width: 100px;
+  }
+
+    .steam {
+    text-align: middle;
+    width: 100px;
+  }
+
+    .alt {
+    text-align: right;
     width: 100px;
   }
 
